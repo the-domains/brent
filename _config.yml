@@ -1,0 +1,28 @@
+name: brent
+favicon: null
+layout_spectrum: 0.6182712593581527
+typography_spectrum: 0.8677066245581955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7695799742359668
+  lightness: 0.7229325813241303
+  saturation: 0.33106608875095844
+  rhythmicContrast: 0.563873551087454
+purpose: []
